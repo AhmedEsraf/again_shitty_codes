@@ -1,0 +1,8 @@
+1. Always speak in variables.
+2. For God's sake never follow bangla IT tutorials
+3. Right click a variable and choose 'refactor' to change variable name in all the codes.
+4. None means basically the absence of a value.
+5. exit code 0 means program succesfully ran and exit code 1 means program crashed.
+6. Use comment to type whys and hows not whats.
+7. Don't over-comment in a collaborative project file.
+8. DRY is important in programming. DRY = Don't Repeat Yourself.
